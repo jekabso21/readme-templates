@@ -1,7 +1,7 @@
 - [Home](/)
   - Nice Interactrive
-    -[Roll_For_Inniative](https://github.com/benjaminsampica/benjaminsampica)
-    -[Chess](https://github.com/timburgan/timburgan)
+    - [Roll_For_Inniative](https://github.com/benjaminsampica/benjaminsampica)
+    - [Chess](https://github.com/timburgan/timburgan)
   - A
     - [aaditkamat](/templates/aaditkamat.md)
     - [aastha12](/templates/aastha12.md)
